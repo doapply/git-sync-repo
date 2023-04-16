@@ -1,4 +1,4 @@
-name: Repo Sync Action
+name: Repo Sync
 author: Wei He <connect@doapply.me>
 description: 🔃  Sync between two independent repositories
 branding:
