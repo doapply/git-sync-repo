@@ -1,9 +1,9 @@
-name: Repo Sync
-author: Wei He <connect@doapply.me>
+name: Git Repo Sync
+author: Do Apply <connect@doapply.me>
 description: 🔃  Sync between two independent repositories
 branding:
   icon: 'git-branch'
-  color: 'green-dark'
+  color: 'gray-dark'
 inputs:
   source_repo:
     description: GitHub repo slug or full url
